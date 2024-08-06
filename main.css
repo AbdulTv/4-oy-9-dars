@@ -1,0 +1,408 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.body {background-color: #faf8f8;}
+
+.header1 {
+    background-color: #fff;
+    width: 1488px;
+}
+
+.header-wrapper1 {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.header-list1 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+
+.text-header1 {
+    color: #1F1534
+}
+
+.contianer {
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.our-servis {
+    width: 952px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.item {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 56px;
+    margin-bottom: 62px;
+
+}
+
+.text {
+    font-family: Mulish;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+
+
+}
+
+.main-wrapper {
+    margin-top: 36px;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.cart {
+    border-radius: 15px;
+    padding: 30px 20px;
+    color: #fff;
+    width: 380px;
+    background-color: rgb(247, 244, 244);
+    transition: ease-in-out 0.8s;
+}
+
+.cart-item {
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+
+}
+
+.cart-text {
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+
+}
+
+
+
+.cart:hover {
+    border-radius: 15px;
+    padding: 30px 20px;
+    color: #fff;
+    width: 380px;
+    background: blue;
+    transition: 0.3s;
+}
+
+.cart:active {
+    border-radius: 15px;
+    padding: 30px 20px;
+    color: gold;
+    width: 380px;
+    background: red;
+    transition: 0.3s;
+
+}
+
+.img1 {
+    width: 100px;
+    margin-left: 50px;
+}
+
+.h3-1 {
+    justify-content: start;
+}
+
+.logo1 {
+    display: flex;
+    align-items: center;
+}
+
+.h1-1 {
+    width: 280px;
+}
+
+.p-1 {
+    width: 280px;
+}
+
+.father1 {
+    margin-top: 178px;
+    margin-left: 35px;
+}
+
+.our-servis {
+    margin-top: 130px;
+}
+
+.Consult {
+    width: 110px;
+    height: 30px;
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 55px;
+    background-color: chartreuse;
+    text-align: center;
+    padding: 3px;
+    transition: 0.5s;
+}
+
+
+.Consult:hover {
+    width: 110px;
+    height: 30px;
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 55px;
+    background-color: rgb(110, 84, 206);
+    text-align: center;
+    padding: 3px;
+    transition: 0.5s;
+    color: #fff;
+}
+
+
+.text-header1:hover {
+    font-family: 
+    Mulish;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22.59px;
+}
+
+.mother {display: flex;}
+
+.illustration {margin-left: 180px;}
+
+
+
+
+.our-servis {
+    width: 952px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.item {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 56px;
+    margin-bottom: 62px;
+
+}
+
+.text {
+    font-family: Mulish;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+
+
+}
+
+.main-wrapper {
+    margin-top: 36px;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.cart {
+    border-radius: 15px;
+    padding: 30px 20px;
+    color: black;
+    width: 380px;
+    background-color: #dccaca    ;
+    transition: ease-in-out 0.8s;
+}
+
+.cart-item {
+    font-family: Mulish;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 56px;
+
+}
+
+.cart-text {
+    font-family: Mulish;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+
+}
+
+
+
+.cart:hover {
+    border-radius: 15px;
+    padding: 30px 20px;
+    color: #fff;
+    width: 380px;
+    background: blue;
+    transition: 0.3s;
+}
+
+
+.knopka1 {
+    width: 110px;
+    height: 30px;
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 55px;
+    background-color: rgb(248, 248, 248);
+    color: blue;
+    text-align: center;
+    padding: 3px;
+    transition: 0.5s;
+    margin-left: 45%;
+    border: solid 1.5px blue;
+
+}
+
+.knopka1:hover {
+    width: 110px;
+    height: 30px;
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 55px;
+    background-color: rgb(78, 255, 119);
+    text-align: center;
+    padding: 3px;
+    transition: 0.5s;
+    color: blue;
+    margin-left: 45%;
+    border: solid 1.5px blue;
+}
+
+
+
+
+
+
+
+.knopka2 {
+    width: 110px;
+    height: 30px;
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 55px;
+    background-color: rgb(248, 248, 248);
+    color: blue;
+    text-align: center;
+    padding: 3px;
+    transition: 0.5s;
+    margin-left: 265px;
+    border: solid 1.5px blue;
+}
+
+.knopka2:hover {
+    width: 110px;
+    height: 30px;
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 55px;
+    background-color: rgb(78, 255, 119);
+    text-align: center;
+    padding: 3px;
+    transition: 0.5s;
+    color: blue;
+    margin-left: 265px;
+    border: solid 1.5px blue;
+}
+
+
+
+
+
+
+
+.knopka3 {
+    width: 110px;
+    height: 30px;
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 55px;
+    background-color: rgb(248, 248, 248);
+    color: blue;
+    text-align: center;
+    padding: 3px;
+    transition: 0.5s;
+    border: solid 1.5px blue;
+}
+
+.knopka3:hover {
+    width: 110px;
+    height: 30px;
+    margin-top: 35px;
+    margin-left: 35px;
+    border-radius: 55px;
+    background-color: rgb(78, 255, 119);
+    text-align: center;
+    padding: 3px;
+    transition: 0.5s;
+    color: blue;
+    border: solid 1.5px blue;
+    justify-content: center;
+}
+
+
+.father2 {width: 1180px;}
+
+.img2 {margin-top: 120px;}
+
+.h1-2 {text-align: center; margin-top: 25px;}
+
+.h1-3 {margin-top: 190px; width: 200px; margin-bottom: 55px; margin-left: 265px;}
+
+.h1-4 {text-align: center;}
+
+.p-2 {width: 250px; margin-left: 265px;}
+
+.mother2 {display: flex;}
+
+.Box1 {width: 380px; height: 516px; background-color: #fff; margin-top: 70px;}
+
+.h1-5 {margin-top: 20px; margin-bottom: 20px; width: 265px; margin-left: 15px;}
+
+.father3 { width: 1180px; margin-top: 70px;}
+
+.mother3 {display: flex; gap: 20px; }
+
+.p-3 {margin-top: 96px; color: #4089ED; margin-left: 15px;}
+
+.p-4 {width: 265px; margin-left: 15px;}
+
+.button1 {margin-left: 45%;}
+
+.karopka {width: 1600px; height: 432px; background-color: #67C3F3; margin-top: 200px;}
+
+.img4 {width: 170px; height: 41px; margin-top: px; margin-left: 150px;}
+
+.p-5 {width: 300px; height: 84px; color: #fff; margin-left: 150px; margin-top: 25px;}
+
+.text1 {margin-top: 180px; margin-left: 80px}
+
+.text2 {margin-top: 180px; margin-left: 80px}
+
+.text3 {margin-top: 180px; margin-left: 80px}
+
+.text4 {margin-top: 180px; margin-left: 80px}
+
+.karopka {display: flex; color: #fff;}
+
+.p6 {margin-top: 10px;}
+
